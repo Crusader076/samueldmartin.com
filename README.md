@@ -17,7 +17,7 @@ A single self-contained `index.html` (no build step, no dependencies except Goog
 - Feature sets rewritten to match what each app's UI actually shows (earned-value + resource leveling + AI orchestration for BearingCPM; capacity-aware iteration planning + confidence vote for PI Planning Studio; illustrated champion sheets + stat orbs for HQ Companion).
 
 ## ⚠️ Optional — things you may still want to confirm/personalize
-- **Bio claims** — the About section says "Certified Scrum Master" and references SAFe/PI Planning (matches your public LinkedIn). Adjust wording or add your current title/employer if you like.
+- **Bio claims** — Hero section reflects highest certifications ("Google Gen AI Leader" and "Scaled Agile Practitioner (SPC)"). Adjust wording or add your current title/employer if you like.
 - **Product roles** — labeled "Founder & Builder" / "Creator." Change if your actual role differs.
 - **HQ Companion disclaimer** — the app itself carries an "unofficial / not affiliated with Hasbro" notice; add it here too if you want.
 - **Profile photo / favicon** — not yet included.
