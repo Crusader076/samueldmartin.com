@@ -6,15 +6,15 @@ A single self-contained `index.html` (no build step, no dependencies except Goog
 - **Hero** — positioning as an Agile & AI change agent
 - **About** — narrative + three operating principles (Interactions over Artifacts / Methods over Rituals / Adaptation over Adherence)
 - **Expertise** — Agile Transformation, Applied AI, Product Engineering
-- **Portfolio** — Fulcrum CPM, PI Planning Studio, HQ Companion (each with feature set + technical stack + live link)
+- **Portfolio** — BearingCPM, PI Planning Studio, HQ Companion (each with feature set + technical stack + live link)
 - **Contact** + footer
 
 ---
 
 ## ✅ Personalized (already done)
-- **Email** wired to `sdmart@gmail.com` (Contact button).
+- **Contact** wired to LinkedIn profile (`https://www.linkedin.com/in/samueldmartin/`).
 - **Real product screenshots** embedded for all three products (in `assets/`), shown in browser-style frames.
-- Feature sets rewritten to match what each app's UI actually shows (earned-value + resource leveling + AI orchestration for Fulcrum; capacity-aware iteration planning + confidence vote for PI Planning Studio; illustrated champion sheets + stat orbs for HQ Companion).
+- Feature sets rewritten to match what each app's UI actually shows (earned-value + resource leveling + AI orchestration for BearingCPM; capacity-aware iteration planning + confidence vote for PI Planning Studio; illustrated champion sheets + stat orbs for HQ Companion).
 
 ## ⚠️ Optional — things you may still want to confirm/personalize
 - **Bio claims** — the About section says "Certified Scrum Master" and references SAFe/PI Planning (matches your public LinkedIn). Adjust wording or add your current title/employer if you like.
@@ -51,6 +51,6 @@ Once your domain is set up in Bluehost:
 ## Editing
 Everything is in one file. Open `index.html` in any editor:
 - Colors live in the `:root { ... }` CSS variables at the top (`--accent`, `--bg`, etc.).
-- Text content is plain HTML in the `<body>` — search for the section you want (e.g. `id="about"`, `Fulcrum CPM`).
+- Text content is plain HTML in the `<body>` — search for the section you want (e.g. `id="about"`, `BearingCPM`).
 
 Verified: renders cleanly in-browser, zero console/JS errors, responsive down to mobile, and all content is visible even if JavaScript is disabled (animations are purely additive).
